@@ -3,7 +3,7 @@ from pygame.locals import *
 from StrategyGame import *
 import random
 
-# Initialize the game
+# Initialize the game...
 pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption('Aircraft War Game')
